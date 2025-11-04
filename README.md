@@ -5,7 +5,7 @@
 ![Podman](https://img.shields.io/badge/Podman-red.svg?logo=podman)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI-blue.svg?logo=githubactions)
 
-Ini adalah repositori proyek untuk Ujian Tengah Semester mata kuliah **Cloud Services (COMP6991031)**.
+Ini adalah repositori proyek untuk Ujian Tengah Semester mata kuliah **Cloud Services**.
 
 - **Nama:** Ryan Hanif Dwihandoyo
 - **NIM:** 2702358134
