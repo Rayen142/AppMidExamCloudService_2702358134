@@ -1,4 +1,4 @@
-# Proyek Ujian Tengah Semester - Cloud Service (COMP6991031)
+# Proyek Ujian Tengah Semester - Cloud Service 
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg?logo=python)
 ![Docker](https://img.shields.io/badge/Docker-blue.svg?logo=docker)
